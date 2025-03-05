@@ -512,8 +512,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 1155.9998779296875,
-            "y": 10.999995231628418
+            "x": 1174.8572998046875,
+            "y": 11.42855453491211
         },
         "m_Blocks": [
             {
@@ -3434,7 +3434,7 @@
     "m_ZWriteControl": 0,
     "m_AlphaMode": 0,
     "m_RenderFace": 0,
-    "m_AlphaClip": true,
+    "m_AlphaClip": false,
     "m_CastShadows": true,
     "m_ReceiveShadows": true,
     "m_SupportsLODCrossFade": false,
@@ -3886,7 +3886,7 @@
     "m_CustomColors": {
         "m_SerializableColors": []
     },
-    "m_HashType": 0
+    "m_HashType": 1
 }
 
 {

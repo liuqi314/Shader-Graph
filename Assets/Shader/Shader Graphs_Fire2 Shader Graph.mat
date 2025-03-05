@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6902501524619722057
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -7,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fire Shader Graphs_Fire Shader Graph
-  m_Shader: {fileID: -6465566751694194690, guid: 92084db591bcba94087871e0fa0570ee,
+  m_Name: Shader Graphs_Fire2 Shader Graph
+  m_Shader: {fileID: -6465566751694194690, guid: 360a6bd52a2ada44b9fd57cd8832641e,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -42,27 +55,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Float_Dissolve_amount: 0.06
-    - _Float_Dissolve_scale: 5
-    - _Float_Distortion_scale: 7.5
-    - _Float_distortion_amount: 0.15
+    - _Float_distortion_amount: 0.24
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 1024, g: 112.586365, b: 16.08374, a: 1}
-    - _Vector2_dissolve_speed: {r: -0.1, g: -0.7, b: 0, a: 0}
-    - _Vector2_distortion_speed: {r: 0.1, g: -0.5, b: 0, a: 0}
+    - _Color: {r: 285.26114, g: 39.119045, b: 4.2289243, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &6656059308244766547
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 7

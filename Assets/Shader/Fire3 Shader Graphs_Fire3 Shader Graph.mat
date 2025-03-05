@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fire Shader Graphs_Fire Shader Graph
-  m_Shader: {fileID: -6465566751694194690, guid: 92084db591bcba94087871e0fa0570ee,
+  m_Name: Fire3 Shader Graphs_Fire3 Shader Graph
+  m_Shader: {fileID: -6465566751694194690, guid: d5a61ac7323218a4e92a5e0bbf8d75aa,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Texture2D:
-        m_Texture: {fileID: 2800000, guid: b132713bf9c204441805659b87d73e2b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 63d5b638dc8ae564f9e45a9a924fea96, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -42,18 +42,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Float_Dissolve_amount: 0.06
-    - _Float_Dissolve_scale: 5
-    - _Float_Distortion_scale: 7.5
-    - _Float_distortion_amount: 0.15
+    - _Float_Dissolve_Amount: 1.98
+    - _Float_Dissolve_Scale: 3.9
+    - _Float_Disstortion_Scale: 6.83
+    - _Float_distortion_amount: 0.14
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 1024, g: 112.586365, b: 16.08374, a: 1}
-    - _Vector2_dissolve_speed: {r: -0.1, g: -0.7, b: 0, a: 0}
-    - _Vector2_distortion_speed: {r: 0.1, g: -0.5, b: 0, a: 0}
+    - _Color: {r: 345.39072, g: 51.527225, b: 10.706151, a: 1}
+    - _Vector2_Dissolve_speed: {r: -0.39, g: -0.53, b: 0, a: 0}
+    - _Vector2_distortion_speed: {r: -0.11, g: -0.7, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &6656059308244766547
+--- !u!114 &9095463590170588740
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
