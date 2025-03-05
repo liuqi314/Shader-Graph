@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Texture2D:
-        m_Texture: {fileID: 2800000, guid: 63d5b638dc8ae564f9e45a9a924fea96, type: 3}
+        m_Texture: {fileID: 2800000, guid: b82811e1fa6cd0f4490431df444eaefa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -42,16 +42,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Float_Dissolve_Amount: 1.98
-    - _Float_Dissolve_Scale: 3.9
-    - _Float_Disstortion_Scale: 6.83
+    - _Float_Dissolve_Amount: 1.16
+    - _Float_Dissolve_Scale: 2.45
+    - _Float_Disstortion_Scale: 7
     - _Float_distortion_amount: 0.14
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 345.39072, g: 51.527225, b: 10.706151, a: 1}
+    - _Color: {r: 369.1476, g: 48.943542, b: 3.482467, a: 1}
     - _Vector2_Dissolve_speed: {r: -0.39, g: -0.53, b: 0, a: 0}
-    - _Vector2_distortion_speed: {r: -0.11, g: -0.7, b: 0, a: 0}
+    - _Vector2_distortion_speed: {r: 0.07, g: -0.7, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &9095463590170588740
 MonoBehaviour:
