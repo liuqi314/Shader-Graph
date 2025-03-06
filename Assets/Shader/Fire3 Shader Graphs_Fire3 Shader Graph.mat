@@ -51,7 +51,7 @@ Material:
     m_Colors:
     - _Color: {r: 369.1476, g: 48.943542, b: 3.482467, a: 1}
     - _Vector2_Dissolve_speed: {r: -0.39, g: -0.53, b: 0, a: 0}
-    - _Vector2_distortion_speed: {r: 0.07, g: -0.7, b: 0, a: 0}
+    - _Vector2_distortion_speed: {r: -0.21, g: -0.51, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &9095463590170588740
 MonoBehaviour:
